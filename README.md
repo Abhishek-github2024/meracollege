@@ -1,2 +1,2 @@
 # meracollege
-Here i build meracollege Api
+This is meracollege Api
